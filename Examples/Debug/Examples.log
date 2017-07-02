@@ -1,0 +1,5 @@
+﻿  Example61-63.cpp
+h:\examples\examples\example61-63.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\examples\examples\example61-63.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  Examples.vcxproj -> H:\Examples\Debug\Examples.exe
+  Examples.vcxproj -> H:\Examples\Debug\Examples.pdb (Full PDB)

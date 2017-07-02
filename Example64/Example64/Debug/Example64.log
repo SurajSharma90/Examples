@@ -1,0 +1,10 @@
+﻿  main.cpp
+h:\examples\example64\example64\darr.h(94): warning C4018: '>=': signed/unsigned mismatch
+  h:\examples\example64\example64\darr.h(93): note: while compiling class template member function 'int &dArr<int>::operator [](const int)'
+  h:\examples\example64\example64\main.cpp(26): note: see reference to function template instantiation 'int &dArr<int>::operator [](const int)' being compiled
+  h:\examples\example64\example64\main.cpp(11): note: see reference to class template instantiation 'dArr<int>' being compiled
+h:\examples\example64\example64\darr.h(133): warning C4018: '>=': signed/unsigned mismatch
+  h:\examples\example64\example64\darr.h(132): note: while compiling class template member function 'void dArr<int>::remove(const int,bool)'
+  h:\examples\example64\example64\main.cpp(35): note: see reference to function template instantiation 'void dArr<int>::remove(const int,bool)' being compiled
+  Example64.vcxproj -> H:\Examples\Example64\Debug\Example64.exe
+  Example64.vcxproj -> H:\Examples\Example64\Debug\Example64.pdb (Full PDB)
