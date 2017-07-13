@@ -204,6 +204,9 @@
     <ClCompile Include="Example61-63.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Example64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Darr.h">

@@ -204,6 +204,7 @@
     <ClCompile Include="Example59.cpp" />
     <ClCompile Include="Example60.cpp" />
     <ClCompile Include="Example61-63.cpp" />
+    <ClCompile Include="Example64.cpp" />
     <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <ItemGroup>
